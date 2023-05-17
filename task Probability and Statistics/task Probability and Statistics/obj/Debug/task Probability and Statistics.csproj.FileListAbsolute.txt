@@ -1,0 +1,8 @@
+C:\learn   programing\C#\task Probability and Statistics\task Probability and Statistics\bin\Debug\task Probability and Statistics.exe.config
+C:\learn   programing\C#\task Probability and Statistics\task Probability and Statistics\bin\Debug\task Probability and Statistics.exe
+C:\learn   programing\C#\task Probability and Statistics\task Probability and Statistics\bin\Debug\task Probability and Statistics.pdb
+C:\learn   programing\C#\task Probability and Statistics\task Probability and Statistics\obj\Debug\task Probability and Statistics.csproj.AssemblyReference.cache
+C:\learn   programing\C#\task Probability and Statistics\task Probability and Statistics\obj\Debug\task Probability and Statistics.csproj.SuggestedBindingRedirects.cache
+C:\learn   programing\C#\task Probability and Statistics\task Probability and Statistics\obj\Debug\task Probability and Statistics.csproj.CoreCompileInputs.cache
+C:\learn   programing\C#\task Probability and Statistics\task Probability and Statistics\obj\Debug\task Probability and Statistics.exe
+C:\learn   programing\C#\task Probability and Statistics\task Probability and Statistics\obj\Debug\task Probability and Statistics.pdb
